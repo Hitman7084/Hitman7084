@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning about Flask web framework in Python.<br>Also working on a django project.
+I'm currently working on a solar simlation project.
 
 
 ## 🌐 Socials:
