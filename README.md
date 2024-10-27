@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a solar simlation project.
+I'm currently working on a solar system simlation project.
 
 
 ## 🌐 Socials:
